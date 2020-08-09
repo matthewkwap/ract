@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//matthewkwap.github.io/ract/static/css/main.f0136ab1.chunk.css",
+    "main.js": "//matthewkwap.github.io/ract/static/js/main.42aafca2.chunk.js",
+    "main.js.map": "//matthewkwap.github.io/ract/static/js/main.42aafca2.chunk.js.map",
+    "runtime-main.js": "//matthewkwap.github.io/ract/static/js/runtime-main.60394d5d.js",
+    "runtime-main.js.map": "//matthewkwap.github.io/ract/static/js/runtime-main.60394d5d.js.map",
+    "static/js/2.16ce35ba.chunk.js": "//matthewkwap.github.io/ract/static/js/2.16ce35ba.chunk.js",
+    "static/js/2.16ce35ba.chunk.js.map": "//matthewkwap.github.io/ract/static/js/2.16ce35ba.chunk.js.map",
+    "index.html": "//matthewkwap.github.io/ract/index.html",
+    "precache-manifest.53f5a54ace0b6dfc1bfee2688de92d78.js": "//matthewkwap.github.io/ract/precache-manifest.53f5a54ace0b6dfc1bfee2688de92d78.js",
+    "service-worker.js": "//matthewkwap.github.io/ract/service-worker.js",
+    "static/css/main.f0136ab1.chunk.css.map": "//matthewkwap.github.io/ract/static/css/main.f0136ab1.chunk.css.map",
+    "static/js/2.16ce35ba.chunk.js.LICENSE.txt": "//matthewkwap.github.io/ract/static/js/2.16ce35ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60394d5d.js",
+    "static/js/2.16ce35ba.chunk.js",
+    "static/css/main.f0136ab1.chunk.css",
+    "static/js/main.42aafca2.chunk.js"
+  ]
+}
